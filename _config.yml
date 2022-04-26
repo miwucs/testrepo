@@ -2,6 +2,9 @@
 title: Testrepo
 timezone: UTC
 collections:
+  plays:
+    title: Plays
+    output: true
   posts:
     title: Posts
     output: true
